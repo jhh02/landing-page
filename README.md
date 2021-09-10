@@ -1,0 +1,1 @@
+A small side assignment from Odin Project
